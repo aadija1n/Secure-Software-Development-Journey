@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.env.local
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# JetBrains (if you ever use PyCharm)
+.idea/
+
+# Node (later)
+node_modules/
