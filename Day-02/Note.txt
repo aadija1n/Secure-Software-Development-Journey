@@ -1,0 +1,3 @@
+
+Secure variables using Final, Throws error on tampering only in environment where Pylance is being used,
+Normal text edit and local run can still change them.
